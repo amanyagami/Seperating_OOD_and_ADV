@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath("../../"))  # repo root so "src" is importable
 # If your package root is different, adjust path accordingly (e.g., "../..", "../").
 
-project = "Viyogs"
+project = "Viyog "
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
